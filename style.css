@@ -1,0 +1,27 @@
+body {background-color: #000000;
+}
+.p3 {text-align: center;
+    font-size: 150%;
+    color: aliceblue;
+}
+.p1 {border-width: 5px;
+     border-color: crimson;
+     border-style: dashed;
+     margin-left: 20%;
+     margin-right: 34%;
+     margin-left: 7%;
+     padding-top: 5%;
+}
+.p1 {background-color: chocolate;
+}
+.p1 {color: blueviolet;
+}
+.p2 { color: aliceblue;
+    font-size: 120%;
+}
+.p3{color: red;
+}
+.p3{border-bottom: 5px;
+    border-color: aqua;
+    border-style: double;
+}
